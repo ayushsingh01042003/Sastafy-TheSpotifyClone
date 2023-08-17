@@ -19,7 +19,7 @@ Welcome to the Music Player Application! This Android application, developed in 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ayushsingh01042003/AppDevProject-Sem4-MusicPlayer.git`
+1. Clone the repository: `git clone https://github.com/ayushsingh01042003/Sastafy-TheSpotifyClone.git`
 2. Open the project in Android Studio.
 3. Set up the necessary API credentials for Spotify and Google login.
 4. Set up Firebase Realtime Database.
